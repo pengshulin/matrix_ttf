@@ -1,0 +1,20 @@
+Linux
+-----
+
+make font directory software link to /usr/share/fonts/FONT_DIR
+in FONT_DIR, sudo:
+mkfontscale
+mkfontdir
+fc-cache
+
+refer to my personal script: github.com/pengshulin/utils/bin/ubuntu.install.myfonts
+
+
+Win32
+-----
+Just copy them into font directory.
+
+
+
+
+Enjoy

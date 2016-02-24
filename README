@@ -1,0 +1,15 @@
+Matrix TTF
+
+This is my personal made ttf used for UI prototyping.
+You can edit build script and customize your template fonts and glyphs.
+
+Current fonts built from templates:
+*) Arial(bd)
+*) Tahoma(bd)
+*) DejaVuSans(bd)
+
+*) sample template (Inkscape/svg) for Tahomabd font
+
+
+If any bug is found, feel free to mail me <trees_peng@163.com>.
+
